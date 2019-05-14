@@ -1,0 +1,15 @@
+\begin{thebibliography}{1}
+
+\bibitem{Neural}
+Leon~A. Gatys, Alexander~S. Ecker, and Matthias Bethge.
+\newblock A neural algorithm of artistic style.
+\newblock {\em CoRR}, abs/1508.06576, 2015.
+
+\bibitem{Image}
+Leon~A. Gatys, Alexander~S. Ecker, and Matthias Bethge.
+\newblock Image style transfer using convolutional neural networks.
+\newblock In {\em 2016 {IEEE} Conference on Computer Vision and Pattern
+  Recognition, {CVPR} 2016, Las Vegas, NV, USA, June 27-30, 2016}, pages
+  2414--2423, 2016.
+
+\end{thebibliography}
