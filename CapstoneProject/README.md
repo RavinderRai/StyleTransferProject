@@ -26,7 +26,7 @@ $ pip install Pillow
 
 This will work for windows, mac and linux. For othe libraries, replace 'Pillow' with the name of the other library to be download.
 
-#### Authors
+### Authors
 
 Ravinder Rai
 
