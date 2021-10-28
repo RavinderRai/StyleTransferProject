@@ -26,11 +26,11 @@ $ pip install Pillow
 
 This will work for windows, mac and linux. For othe libraries, replace 'Pillow' with the name of the other library to be download.
 
-#### Authors
+### Authors
 
 Ravinder Rai
 
 
-##### Acknowledgments
+### Acknowledgments
 
 A lot of code in this project was borrowed from fuzzythecat on GitHub. See the following link: https://github.com/tensorflow/models/blob/master/research/nst_blogpost/4_Neural_Style_Transfer_with_Eager_Execution.ipynb
