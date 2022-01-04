@@ -5,7 +5,7 @@ Jupyter notebook was also used, but in principle is not needed.
 
 
 
-## Necessary Python Libraries/Packages**
+## Necessary Python Libraries/Packages
 
 PIL - A Library in python that allows image processing to be handled much more easily. Pillow is an updated alternative and should work in place of PIL.
 
